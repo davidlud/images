@@ -1,0 +1,55 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200.46 245.03">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: white;
+      }
+
+      .cls-1 {
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        fill: #353535;
+      }
+
+      .cls-4 {
+        stroke: #353535;
+        stroke-width: 8px;
+      }
+
+      .cls-5 {
+        font-size: 210.48px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: white;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-6 {
+        font-size: 188.39px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.01em;
+      }
+    </style>
+  </defs>
+  <title>modifiedLogo</title>
+  <rect class="cls-1" x="5" y="5" width="217.98" height="232.84" rx="10"/>
+  <rect class="cls-2" x="320.08" y="5" width="876.88" height="232.84"/>
+  <rect class="cls-3" x="227.02" y="115.2" width="46.92" height="12.44"/>
+  <circle class="cls-4" cx="293.59" cy="121.42" r="19.65"/>
+  <text class="cls-5" transform="translate(43.17 192.41) scale(1.1 1)">A</text>
+  <text class="cls-6" transform="translate(351.16 189.73) scale(0.99 1)">Lab<tspan class="cls-7" x="286.91" y="0">I</tspan><tspan x="333.82" y="0">nsider</tspan></text>
+</svg>
